@@ -2,20 +2,16 @@
     <channel>
         <title><![CDATA[Whisper Valley Railroad]]></title>
         <description><![CDATA[Whisper Valley Railroad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://whispervalleyrailroad.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 20:12:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 21:05:09 GMT</lastBuildDate>
+        <atom:link href="http://whispervalleyrailroad.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>Welcome to Whisper Valley Railroad, the future site of Whisper Valley Railroad. A local toy & hobby shop for toy trains, tractors, farm, model & diecast toys, along with an array of other toy collectables. 
-
-Be sure to check back soon!
-
-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f943c73f1e273ac5db4239d4f3043df0b4de5f4d.png"></article>]]></description>
-            <link>undefinedhome/index.html</link>
+            <description><![CDATA[<article><h1>Home</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f943c73f1e273ac5db4239d4f3043df0b4de5f4d.png"></article>]]></description>
+            <link>http://whispervalleyrailroad.com/home/index.html</link>
             <guid isPermaLink="false">cb2534f4-3edb-4dd5-882b-a0e017f93200</guid>
-            <pubDate>Thu, 14 Jan 2016 20:12:23 GMT</pubDate>
+            <pubDate>Thu, 14 Jan 2016 21:04:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
