@@ -1,19 +1,4 @@
-name: Whisper Valley Railroad
-favicon: null
-layout_spectrum: 0.44806
 typography_spectrum: 0.57246
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,19 @@ color:
   lightness: 0.4375
   saturation: 0.375
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.44806
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Whisper Valley Railroad
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
